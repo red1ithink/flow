@@ -1,1 +1,1 @@
-# imaflowman
+# Turbulence data training process
