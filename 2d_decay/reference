@@ -2,3 +2,18 @@ reference
 
 0. OpenFoam implementation of two-dimensional isotropic homogenous turbulence decay problem by ""Omar Sallam""
 1. https://turbustat.readthedocs.io/en/latest/
+2. Omer San <Generalized deconvolution procedure for structural modeling of turbulence>
+3. G. I. Taylor <Statistical Theory of Turbulence>
+4. Leonardo Campanelli <Dimensional analysis of two-dimensional turbulence>
+5. Rahul Agrawal <Turbulent cascade, bottleneck and thermalized spectrum in hyperviscous flows>
+6. Sylvain Serra <Turbulent kinetic energy spectrum in very anisothermal flows>
+7. M. E. arachet <Small-Scale Dynamics of High-Reynolds-Number Two-Dimensional Turbulence>
+8. Stephen B. Pop <Turbulent Flows>
+9. Jannike Solsvik <Turbulence modeling in the wide energy spectrum: Explicit formulas for Reynolds number dependent energy spectrum parameters>
+10. Axel Brandenburg <The Turbulent Stress Spectrum in the Inertial and Subinertial Ranges>
+11. UCLA <2D Homogeneous Turbulence>
+12. S Kida <The energy spectrum in the universal range of two-dimensional turbulence>
+13. PHILIPPA O’NEILL <VELOCITY, VELOCITY GRADIENT AND VORTICITY STATISTICS OF GRID TURBULENCE OBTAINED USING DIGITAL CROSS-CORRELATION PIV>
+14. H.J.H. Clerc <Two-dimensional turbulence in square and circular domains with no-slip walls>
+15. https://github.com/sayin/Pyhton_LES_solver_2D_decaying_trubulence
+16. 
