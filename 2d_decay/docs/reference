@@ -1,5 +1,3 @@
-reference
-
 0. OpenFoam implementation of two-dimensional isotropic homogenous turbulence decay problem by ""Omar Sallam""
 1. --https://turbustat.readthedocs.io/en/latest/--
 2. Omer San <Generalized deconvolution procedure for structural modeling of turbulence>
@@ -26,4 +24,6 @@ reference
 23. Alberto Vela-Mart´in <Entropy, irreversibility and cascades in the inertial range of isotropic turbulence>
 24. Patrick Tabeling <Two-dimensional turbulence: a physicist approach>
 25. Claude Basdevant <On the validity of the "Weiss criterion" in two-dimensional turbulence>
-26. from github for ruptures == C. Truong, L. Oudre, N. Vayatis. Selective review of offline change point detection methods. Signal Processing, 167:107299, 2020. 
+26. from github for ruptures == C. Truong, L. Oudre, N. Vayatis. Selective review of offline change point detection methods. Signal Processing, 167:107299, 2020.
+27. Ronald W. Schafer <What Is a Savitzky-Golay Filter?>
+28. G. BOFFETTA <Energy and enstrophy fluxes in the double cascade of two-dimensional turbulence>
